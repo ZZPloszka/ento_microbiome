@@ -14,5 +14,6 @@ Supplement_tables.xlsx contains data visualized in figures. Supplementary table 
 - S1_Collections - list of collection samples with descriptions, coordinates, and descriptions of sites and dates of collection
 - S2_Specimens - list of all specimens with unique IDs, collection sites, morphology and COI-based taxonomy, assigned sex, COI barcode sequences, the ITS2/COI read ratio, and numbers of amplicon reads in each targeted marker region
 - S3_COI_Zotus - table of COI zOTUs with taxonomic assignment and numbers of amplicon reads for each insect sample
-- S3_16S_Zotus - table of 16S (bacterial) zOTUs with taxonomic assignment and numbers of amplicon reads for each insect sample
 - S4_emITS2_zOTUs - table of Entomophthora-specific ITS2 zOTUs with taxonomic assignment and numbers of amplicon reads for each insect sample
+- S5_16S_Zotus - table of 16S (bacterial) zOTUs with taxonomic assignment and numbers of amplicon reads for each insect sample
+- S6_Spearman_correlation - a table showing Spearman's correlation values between the ITS2/COI ratio and number of bacteria for the 21 most abundant bacterial genotypes and the total number of bacteria
